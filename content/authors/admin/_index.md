@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Stefano M. Nicoletti
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Twente, Formal Methods and Tools Group
+  url: "https://www.utwente.nl/en/eemcs/fmt/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD Candidate at the **University of Twente**, at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), working in the **ERC-funded Project CAESAR** with the goal of marrying the historically separated fields of safety and cybersecurity.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Logic & Formal Methods
+- Threat and Failure Modelling
+- Malicious Software & Computer Viruses 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master's Degree in Philosophy of Information
+    institution: University of Urbino
+    year: 2017-2019
+  - course: Bachelor's Degree in Philosophy
+    institution: University of Milan
+    year: 2014-2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:s.m.nicoletti@utwente.nl'  # For a direct email link, use "mailto:test@example.org".
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Stefano_Nicoletti
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-5522-4798
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/nicoletti_ste
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +66,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate at the **University of Twente**, at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), working in the **ERC-funded Project CAESAR** with the goal of marrying the historically separated fields of safety and cybersecurity.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I hold a Bachelor's Degree in Philosophy from the University of Milan and a Master's Degree in Philosophy of Information, Theory and Management of Knowledge from the University of Urbino, where I worked extensively on malware and virus detection issues.
