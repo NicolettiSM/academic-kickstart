@@ -23,6 +23,7 @@ bio: I am a PhD Candidate at the **University of Twente**, at the Faculty of Ele
 interests:
 - Logic & Formal Methods
 - Threat and Failure Modelling
+- Cybersecurity & Safety
 - Malicious Software & Computer Viruses 
 
 education:
@@ -43,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:s.m.nicoletti@utwente.nl'  # For a direct email link, use "mailto:test@example.org".
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=oPkHQWgAAAAJ&hl=en&oi=ao
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Stefano_Nicoletti
@@ -71,6 +72,6 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Candidate at the **University of Twente**, at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), working in the **ERC-funded Project CAESAR** with the goal of marrying the historically separated fields of safety and cybersecurity.
+I am a PhD Candidate at the **University of Twente**, at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), working in the <a href="https://www.utoday.nl/news/67696/erc-consolidator-grant-for-marielle-stoelinga">**ERC-funded Project CAESAR**</a> with the goal of marrying the historically separated fields of safety and cybersecurity. 
 
-I hold a Bachelor's Degree in Philosophy from the University of Milan and a Master's Degree in Philosophy of Information, Theory and Management of Knowledge from the University of Urbino, where I worked extensively on malware and virus detection issues.
+I hold a Bachelor's Degree in <a href="http://eng.dipafilo.unimi.it/ecm/home">Philosophy</a> from the University of Milan and a Master's Degree in <a href="http://filosofia.uniurb.it/">Philosophy of Information, Theory and Management of Knowledge</a> from the University of Urbino, where I worked extensively on malware and virus detection issues.
