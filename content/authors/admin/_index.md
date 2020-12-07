@@ -24,7 +24,7 @@ interests:
 - Logic & Formal Methods
 - Threat and Failure Modelling
 - Cybersecurity & Safety
-- Malicious Software & Computer Viruses 
+- Malicious Software & Computer Viruses
 
 education:
   courses:
@@ -72,6 +72,6 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Candidate at the **University of Twente**, at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), working in the <a href="https://www.utoday.nl/news/67696/erc-consolidator-grant-for-marielle-stoelinga">**ERC-funded Project CAESAR**</a> with the goal of marrying the historically separated fields of safety and cybersecurity. 
+I am a PhD Candidate at the **University of Twente**, at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), working in the <a href="https://www.utoday.nl/news/67696/erc-consolidator-grant-for-marielle-stoelinga">**ERC-funded**</a> Project <a href="https://www.utwente.nl/en/eemcs/fmt/research/projects/caesar/">**CAESAR**</a> with the goal of marrying the historically separated fields of safety and cybersecurity.
 
 I hold a Bachelor's Degree in <a href="http://eng.dipafilo.unimi.it/ecm/home">Philosophy</a> from the University of Milan and a Master's Degree in <a href="http://filosofia.uniurb.it/">Philosophy of Information, Theory and Management of Knowledge</a> from the University of Urbino, where I worked extensively on malware and virus detection issues.
