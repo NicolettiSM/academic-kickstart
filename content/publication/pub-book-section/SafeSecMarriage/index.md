@@ -1,5 +1,5 @@
 ---
-title: "Mind the app. Riflessioni per un contact tracing responsabile"
+title: "The Marriage Between Safety and Cybersecurity: Still Practicing"
 authors:
 - Marielle Stoelinga
 - Christina Kolb
@@ -23,7 +23,7 @@ publishDate: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In: Laarman A., Sokolova A. (eds) Model Checking Software. SPIN 2021. Lecture Notes in Computer Science, vol 12864. Springer"
+publication: "In: Laarman A., Sokolova A. (eds) Model Checking Software. SPIN 2021. Lecture Notes in Computer Science"
 publication_short: ""
 
 abstract: "Emerging technologies, like self-driving cars, drones, and the Internet-of-Things must not impose threats to people, neither due to accidental failures (safety), nor due to malicious attacks (security). As historically separated fields, safety and security are often analyzed in isolation. They are, however, heavily intertwined: measures that increase safety often decrease security and vice versa. Also, security vulnerabilities often cause safety hazards, e.g. in autonomous cars. Therefore, for effective decision-making, safety and security must be considered in combination.
