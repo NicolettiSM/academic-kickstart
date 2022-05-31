@@ -44,6 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:s.m.nicoletti@utwente.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://nl.linkedin.com/in/stefano-nicoletti-b25606226
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oPkHQWgAAAAJ&hl=en&oi=ao
